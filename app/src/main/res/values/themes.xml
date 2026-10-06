@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.WhatToWatch" parent="android:Theme.Material.NoActionBar" />
+</resources>
